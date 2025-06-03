@@ -2,7 +2,7 @@
 #include <locale.h>
 #include <string.h>
 
-#define prodmaximo 2
+#define prodmaximo 5
 
 // Estrutura do produto
 struct Produto {
