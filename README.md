@@ -42,5 +42,7 @@ Este é um projeto básico e possui as seguintes limitações, que são ótimos 
 
 Este projeto foi desenvolvido por:
 
-* **shinylucasin** (com ajuda de terceiros)
+* **shinylucasin** 
 * Contribuinte: **[samillyv](https://github.com/samillyv)**
+
+* :)
